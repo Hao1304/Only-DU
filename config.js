@@ -1,20 +1,18 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "Sent to Nhu Y",
+    introTitle: 'Nhu Y',
+    introDesc: `falling for you 
+                nobody just you`,
+    btnIntro: 'Hehehe',
+    title: 'Rảnh quá nên làm cho zui hoi à 🤓',
+    desc: 'chơi chung cho zui cả 2 ',
+    btnYes: 'yêu em 🙆',
+    btnNo: 'hok iu (nhma có bấm cũng hok được =))) ) ',
+    question: 'Lý do gì bạn see tình mình dzữ 🤔 ',
+    btnReply: 'sent reason to TH',
+    reply: '',
+    mess: 'Hỏi dzị thôi chứ mình cũng see tình bạn hok có lý do 🤓 ',
+    messDesc: 'Mốt gặp dẫn mình đi ăn nhe',
+    btnAccept: 'Chỉ có ô cê chứ kh có câu trả lời khác',
+    messLink: 'https://www.facebook.com/kimmhng/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
