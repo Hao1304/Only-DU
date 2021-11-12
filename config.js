@@ -10,7 +10,7 @@ const CONFIG = {
     btnNo: 'hok iu (nhma có bấm cũng hok được =))) ) ',
     question: 'Lý do gì bạn see tình mình dzữ 🤔 ',
     btnReply: 'sent reason to TH',
-    reply: '',
+    reply: 'Hok biết',
     mess: 'Hỏi dzị thôi chứ mình cũng see tình bạn hok có lý do 🤓 ',
     messDesc: 'Mốt gặp dẫn mình đi ăn nhe',
     btnAccept: 'Chỉ có ô cê chứ kh có câu trả lời khác',
