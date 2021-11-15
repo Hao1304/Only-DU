@@ -1,20 +1,19 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    titleWeb: "You are my sunshine",
+    introTitle: 'Hà ơiiii',
+    introDesc: `I can’t really find the words to explain the way I feel
+    when I hear your voice or when I see your face…
+    all I can say is that I like the feeling.`,
+    btnIntro: '<3',
+    title: ' When I first saw you I looked for a signature,because every masterpiece has one',
+    desc: 'Khi lần đầu nhìn thấy em, anh cố tìm một chữ ký, bởi vì mọi kiệt tác đều có chữ ký riêng. ',
+    btnYes: 'Thích anh cực kì :))',
+    btnNo: 'Không thích tý nào :(',
+    question: 'Đố em biết I trong tiếng anh với ai trong tiếng thái mình giống nhau ở điểm nào đó?',
+    btnReply: 'Trả lời anh <3',
+    reply: 'Cả 2 đều là anh, và đều muốn em bên cạnh😘 ',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Em có đồng ý ở cạnh anh không ?',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/tran.nghiasimple' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
