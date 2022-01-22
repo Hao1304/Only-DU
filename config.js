@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Gửi đến người anh yêu",
-    introTitle: 'Nguyễn thị hà Trang',
+    introTitle: 'Nùng thu Hường',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
