@@ -10,11 +10,11 @@ const CONFIG = {
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'vì anh đep trai số 1 ',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay chơi game với anh nha!.',
+    mess: 'Mình biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Tối nay chơi game với anh nha,bbi!.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/kiet.ntz.5/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
