@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Gửi đến người anh yêu",
-    introTitle: 'Trương Thị Diệu Ly',
+    introTitle: 'Chu thị minh Hạnh',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'vì em thích anh nhiều lắm luôn ý  ',
     mess: 'Mình biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay chơi game với anh nha,bbi!.',
+    messDesc: 'Làm người yêu anh nhé,bbi!.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/kiet.ntz.5/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
