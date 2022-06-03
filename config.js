@@ -1,19 +1,19 @@
 const CONFIG = {
-    titleWeb: "love ",
-    introTitle: 'Nguyễn Thùy Dương ',
+    titleWeb: "Mấy con giời ",
+    introTitle: 'Gửi mấy con đuông dừa =)) ',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao anh cứ đi nhầm đường
-    Lạc vào tim em lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'Dạ !',
-    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Yêu không !!',
-    btnNo: 'Không nhé :3',
-    question: 'Việt nam có gần 100tr người tại sao hôm đó cậu lại va trúng tớ  <3',
-    btnReply: 'Gửi cho bạn :3',
-    reply: 'vì tớ iu cậu đỗ thanh bình :3',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Mình qua đón đi chơi nha.',
+    Nên mỗi ngày có những điều hay ho : )))
+    Cái gì mới thì mình test
+    Test xong gòi mình đi cà khịa :`,
+    btnIntro: 'haha !',
+    title: 'Phải chăng mấy đứa tò mò',
+    desc: 'Rất muốn biết web này là gì đúng khum : )) ',
+    btnYes: 'Đúng gòi anh zai !!',
+    btnNo: 'Chê nha anh zai : ))',
+    question: 'Việt nam có gần 100tr người và những điều bí ẩn  <3',
+    btnReply: 'Gửi cho tui :3',
+    reply: 'Phải tìm hỉu thui :))',
+    mess: 'Ai biết thì thôi !.Đừng ngại ngùng hỏi đi anh chỉ cho =))',
+    messDesc: 'Tối nay chơi game nhe mấy đứa.',
     btnAccept: 'Okiiiii lun <3',
-}
+}   messlink: 'https://www.facebook.com/quochao.nguyen.96558/'
