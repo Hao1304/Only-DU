@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Demo",
-    introTitle: 'To send Tien',
+    titleWeb: "",
+    introTitle: 'To send UYEN',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Lạc vào tim anh 
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
+    btnIntro: '❤️',
     title: 'Em sẽ yêu anh nhiều hơn chứ 😍',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Sure <33',
-    btnNo: 'Không nha :3',
+    desc: 'Dạo này thấy em không được vui, nên anh đã dành time để làm cái này nè ',
+    btnYes: 'em ổn không , đợi anh được chứ <33',
+    btnNo: 'Chê :))',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
+    btnReply: 'Gửi cho bé <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Chúc em 1 ngày vui vẻee.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    btnAccept: 'yêu em <3',
+    messlink: https://www.facebook.com/messages/t/100043318952126/
 }
